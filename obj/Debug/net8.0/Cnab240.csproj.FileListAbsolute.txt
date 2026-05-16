@@ -1,0 +1,11 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\bin\Debug\net8.0\Cnab240.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\bin\Debug\net8.0\Cnab240.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\bin\Debug\net8.0\Cnab240.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\refint\Cnab240.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\Cnab240.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\bmg\Cnab240\obj\Debug\net8.0\ref\Cnab240.dll

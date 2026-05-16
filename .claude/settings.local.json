@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\fabio\\\\OneDrive\\\\Área de Trabalho\\\\bmg\\\\Cnab240\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\fabio\\\\OneDrive\\\\Área de Trabalho\\\\bmg\\\\Cnab240\\\\Enums\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\fabio\\\\OneDrive\\\\Área de Trabalho\\\\bmg\\\\Cnab240\\\\Exceptions\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\fabio\\\\OneDrive\\\\Área de Trabalho\\\\bmg\\\\Cnab240\\\\Extensions\")",
+      "Bash(New-Item -ItemType Directory -Force -Path \"C:\\\\Users\\\\fabio\\\\OneDrive\\\\Área de Trabalho\\\\bmg\\\\Cnab240\\\\Models\")"
+    ]
+  }
+}
